@@ -5,7 +5,7 @@ const TEMPLATE_STUDENT_2 = '1WaSLVn8m_7U38928jXgB9Cy6zx396c1rO5xpHEXg0B4';      
 const TEMPLATE_STUDENT_3 = '1XesdryqUjzPkJcAJ6GE_HQ623pMj9osldfR2baBjHlE';      // URL for Implicating Student Testimony
 const TEMPLATE_STUDENT_4 = '1KjmsIR34dDJcfmD80uRPb7Iw7tT5oxmFNLyXt3kz6C0';      // URL for Interview Invitation
 const TEMPLATE_STUDENT_5 = '1ARYEm2TY9eeelMyZri8i_qClA6TLnDkos8TlFJg8rDg';      // URL for Case Debriefing
-const TEMPLATE_STUDENT_6 = '13js-uRqq2KlQh2FI454s7BM40ZsAxp6NGy1DX5GPhn4';           // URL for Professor Notification
+const TEMPLATE_STUDENT_6 = '13js-uRqq2KlQh2FI454s7BM40ZsAxp6NGy1DX5GPhn4';      // URL for Professor Notification
 
 const TEMPLATE_FACULTY_0 = '1bpQKf_ADN7WRNMv4i_bWyHGk_jELEsArRHIfpH_8OjU';      // URL for Case Report
 const TEMPLATE_FACULTY_1 = '1RO27FGHuEPdoNfsqP2OlyWKv1bURo5QdLxENjsCTTUk';      // URL for Notification Memo
