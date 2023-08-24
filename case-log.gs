@@ -21,17 +21,17 @@ const PLACEHOLDERS_STUDENT = {
   'case number': 0,
   'ProfFN': 2,
   'ProfLN': 3,
-  'dept': 27,
-  'class': 28,
-  'section': 29,
-  'courseterm': 30,
-  'examdaydate': 31,
-  'examnumber': 32,
-  'examtopic': 33,
-  'examformat': 34,
-  'studentname': 35,
-  'relationship': 36,
-  'resources': 37
+  'dept': 25,
+  'class': 26,
+  'section': 27,
+  'courseterm': 28,
+  'examdaydate': 29,
+  'examnumber': 30,
+  'examtopic': 31,
+  'examformat': 32,
+  'studentname': 33,
+  'relationship': 34,
+  'resources': 35
 };
 
 const PLACEHOLDERS_FACULTY = {
@@ -55,11 +55,9 @@ const PLACEHOLDERS_FACULTY = {
   'desiredres': 19,
   'relationship': 20,
   'resources': 21,
-  'irregularity': 22,
-  'classperformance': 23,
-  'additional': 24,
-  'colleague': 25,
-  'followup': 26
+  'additional': 22,
+  'colleague': 23,
+  'followup': 24
 };
 
 // Triggered when the spreadsheet is opened
