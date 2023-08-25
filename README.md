@@ -28,4 +28,4 @@ In this case, for example, the placeholder `{{resources}}` in the student-implic
 const TEMPLATE_STUDENT_0 = '1YZeAV9U9QGehjz89AYtw2I_jhsq_6xgBO32ASH-k2do';      // URL for Case Report
 const TEMPLATE_STUDENT_1 = '1XVDjJXlKSvu2UbuWFNk2__M0LVT4a3yi2wrlmq44nzA';      // URL for Notification Memo
 ```
-The template ID can be derived from the link of the Google Doc. If the link is "docs.google.com/document/d/1YZeAV9U29QGehjz89AYtw2I_jhsq_6xgBO32ASH-k2do/edit" then the template ID is "1YZeAV9U29QGehjz89AYtw2I_jhsq_6xgBO32ASH-k2do".
+The template ID can be derived from the URL of the Google Doc. If the URL is "docs.google.com/document/d/1YZeAV9U29QGehjz89AYtw2I_jhsq_6xgBO32ASH-k2do/edit" then the template ID is "1YZeAV9U29QGehjz89AYtw2I_jhsq_6xgBO32ASH-k2do".
